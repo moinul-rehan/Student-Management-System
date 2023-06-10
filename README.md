@@ -7,10 +7,10 @@ Our project explains about the student management. This project mainly explains 
 We hereby declare that the project entitled Student Management System submitted in partial fulfillment of the requirements for the degree of Bachelor of Science in Computer Science and Engineering of Bangladesh University of Business and Technology (BUBT) is our own work and that it contains no material which has been accepted for the award to the candidate(s) of any other degree or diploma, except where due reference is made in the text of the project. To the best of our knowledge, it contains no materials previously published or written by any other person except where due reference is made in the project. 
 
 © Copyright by 
-     Md. Takiul Islam Sumon
-     Moinul Islam Rehan
-     Md. Mursaline Ahmed
-     Mainul Wazid
+     Md. Takiul Islam Sumon,
+     Moinul Islam Rehan,
+     Md. Mursaline Ahmed,
+     Mainul Wazid,
      Md. Mortaza Ali
   
   2023 All Rights Reserved 
